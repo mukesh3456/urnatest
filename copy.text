@@ -1,0 +1,254 @@
+<!-- Project Style One Start -->
+  <section class="gap project-style-one ">
+    <div class="heading">
+      <figure>
+        <img src="assets/images/urna-icon.png" alt="Heading Icon">
+      </figure>
+      <!-- <span>Company Porjects</span> -->
+      <h2>Ongoing Projects</h2>
+    </div>
+    <div class="container">
+      <div class="row project-slider owl-carousel">
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/71P.png" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">71P [Mumbai]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/408-A.png" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">408-A [Mumbai]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/Joshua.png" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html"> Joshua [Hyderabad]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">Life Science Center</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="https://via.placeholder.com/640x395" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">Life Science Center</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="https://via.placeholder.com/640x395" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </div>
+  </section>
+  <!-- Project Style One End -->
+  <!-- Project Style One Start -->
+  <section class="gap project-style-one ">
+    <div class="heading">
+      <figure>
+        <img src="assets/images/urna-icon.png" alt="Heading Icon">
+      </figure>
+      <!-- <span>Company Porjects</span> -->
+      <h2>Completed Projects</h2>
+    </div>
+    <div class="container">
+      <div class="row project-slider owl-carousel">
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/Auriga.png" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">Mittal Auriga Project [Bangalore]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/Auriga-case-study.png" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Mittal Auriga Case Study [Bangalore]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/Joshua.png" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html"> Login [Mumbai]</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">Life Science Center</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="assets/images/" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="https://via.placeholder.com/640x395" alt="project-img-1">
+            </figure>
+            <div class="project-data">
+              <h3><a href="project-detail.html">Life Science Center</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <div class="project-post">
+            <figure>
+              <img src="https://via.placeholder.com/640x395" alt="project-img-2">
+            </figure>
+            <div class="project-data">
+              <h3><a href="javascript:void(0)">Home building renovation</a></h3>
+              <p>This project was successfully completed against an extremely tight programme.</p>
+              <a class="project-icon" href="#">
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div> -->
+      </div>
+    </div>
+  </section>
+  <!-- Project Style One End -->
