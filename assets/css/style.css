@@ -96,6 +96,14 @@ h6{
     font-family: 'Poppins';
     font-weight: bold;
 }
+.whatsapp-icon {
+    position: fixed;
+    left: 50px;
+    bottom: 40px;
+    width: 70px;
+    height: 70px;
+    z-index: 999;
+}
 a {
     font-family: 'Poppins';
     font-weight: bold !important;
@@ -2028,7 +2036,7 @@ span.counter {
 }
 .footer-style-one .footer-p-2,
 .footer-style-one .footer-p-3 {
-    background-color: #283678;
+    background-color: #263477;
 }
 .footer-style-one .footer-p-2 .footer-col h3 {
     color: white;
@@ -2503,13 +2511,13 @@ span.counter {
     top: -2px;
     right: -32px;
     border-right: 28px solid transparent;
-    border-top: 60px solid #308555;
+    border-top: 60px solid #303685;
 }
 .desktop-nav .nav-bar .extras .theme-btn svg {
     width: 25px;
     height: 20px;
     margin: 0;
-    fill: white;
+    fill: rgb(12, 11, 11);
 }
 .desktop-nav .nav-bar .extras .theme-btn:hover svg {
     fill: black;

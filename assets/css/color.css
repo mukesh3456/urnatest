@@ -112,7 +112,7 @@ button.scrollTopStick.active,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin,
 .first .tab-data .map-pin .location {
-    background-color: #48C37E;
+    background-color: #344496;
 }
 
 /*Border color*/
@@ -160,5 +160,5 @@ textarea:focus-visible,
 .featured-slider-one .owl-nav button.owl-next:before,
 .cart .cart-table .c-c .c-data .cr-svg:hover,
 .first .tab-data .map-pin .location {
-    border-color: #42a56d;
+    border-color: #263477;
 }
