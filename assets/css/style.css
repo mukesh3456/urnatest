@@ -436,7 +436,7 @@ button.scrollTopStick.active:before,
 }
 .theme-btn:hover {
     background-color: transparent;
-    color: white;
+    color: black;
 }
 .theme-btn:hover i {
     color: black;
