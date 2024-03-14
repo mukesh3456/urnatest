@@ -4352,8 +4352,8 @@ span.counter {
     font-weight: bold;
 }
 .banner-style-one .parallax {
-    background-size: contain;
-    background-position: center right;
+    /* background-size: contain; */
+    /* background-position: center right; */
     opacity: 0.2;
     left: 0% !important;
 }
