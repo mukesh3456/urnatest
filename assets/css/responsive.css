@@ -338,7 +338,7 @@
 @media(max-width: 1200px) {
     .header-style-one {
         position: relative;
-        background-color: black;
+        background-color: white;
     }
     .desktop-nav .nav-bar .extras .menu-start svg {
         margin-right: 15px;

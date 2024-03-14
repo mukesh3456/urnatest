@@ -2036,7 +2036,7 @@ span.counter {
 }
 .footer-style-one .footer-p-2,
 .footer-style-one .footer-p-3 {
-    background-color: #263477;
+    background-color: #263A53;
 }
 .footer-style-one .footer-p-2 .footer-col h3 {
     color: white;
@@ -6576,7 +6576,7 @@ ul.pd-price li:not(:last-child){
 
 /* 61. Where We Work Start */
 .where-we-work {
-    background: #283678;
+    background: #263A53;
     position: relative;
     z-index: 0;
     overflow: hidden;
