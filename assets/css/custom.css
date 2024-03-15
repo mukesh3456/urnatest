@@ -1,5 +1,5 @@
 canvas {
-    width: 100%;
+    width: 90%;
     height: 100vh;
 
   }
@@ -122,25 +122,55 @@ canvas {
 }
 .text-border{
 
-  border: solid 1px rgb(137, 230, 101);
+  border: solid 1px rgb(245 245 245);
   padding: 10px;
   border-radius: 10px;
   margin: 10px;
   box-shadow: 5px 5px 5px gray;
+  transition: all .2s ease-in-out
 }
-.text-border p:hover{
-  border: solid 1px rgb(137, 230, 101);
-  padding: 10px;
-  border-radius: 10px;
-  margin: 10px;
-  box-shadow: 5px 5px 5px gray;
-  background-color: #48C37E;
-  transition: 1s;
+.text-border p{
   color: white;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+.text-border h3{
+  color: white;
+  font-weight: 100;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.text-border:hover{
+  transform: scale(1.1);
 }
 .solution{
-  background-color: #79BCD7;
+  background-color: whitesmoke;
 }
 .eart-bottom{
   margin-bottom: 15px;
+}
+.service-style-two .heading h2 {
+  color: white !important;
+}
+.service-style-two .heading span {
+  color: white !important;
+}
+.service-two-box h3 a{
+  color: white !important;
+}
+.service-two-box p{
+  color: white;
+  letter-spacing: 1px;
+}
+.construction-services .services-nav h2 {
+  color: white;
+}
+.construction-services .services-nav ul li{
+  color: white;
+}
+.construction-services .services-nav ul li button.nav-link.active{
+  color: white;
+}
+.construction-services .services-nav ul li button{
+  color: white;
 }
