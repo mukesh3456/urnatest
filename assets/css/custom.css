@@ -192,3 +192,45 @@ canvas {
 .banner-style-one .breadcrums ul li p{
   color: black;
 }
+.odometer.odometer-auto-theme li{
+ color: white;
+}
+.service-style-one .service-data p{
+  color: black;
+}
+.about-how-it-works .plans p{
+  color: black;
+}
+.counter-style-one .counter-data h4{
+  color: white;
+}
+.about-first .who-we-are ul li{
+  color: white;
+}
+.desktop-nav .nav-bar ul > li ul.sub-menu li a{
+  color: black;
+}
+.heading-style-2 .data h2{
+  color: white;
+}
+.heading-style-2 .data span{
+  color: white;
+}
+.team-style-one .team-data .team-info h3 {
+  color: white;
+}
+.team-style-one .team-data .team-info p {
+  color: white;
+}
+.client-review-style-one .head-review span{
+  color: white;
+}
+.client-review-style-one .head-review h3{
+  color: white;
+}
+.client-review-slider .slider-data p{
+  color: white;
+}
+.client-review-slider .slider-data .bio .details h3{
+ color: white;
+}
