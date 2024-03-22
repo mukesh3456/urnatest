@@ -198,6 +198,9 @@ canvas {
 .service-style-one .service-data p{
   color: black;
 }
+.service-style-one .service-data .text-border1{
+  color: rgb(255, 255, 255);
+}
 .about-how-it-works .plans p{
   color: black;
 }
