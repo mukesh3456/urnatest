@@ -244,3 +244,9 @@ canvas {
 .project-style-one .project-post .project-data p{
   color: black;
 }
+.heading.heading-style-3 h2{
+  color: white;
+}
+.loaction{
+  color: white !important;
+}

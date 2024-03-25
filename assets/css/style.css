@@ -136,7 +136,7 @@ a:hover{
     padding-right: 0 !important;
 }
 .gap {
-    padding: 120px 0;
+    padding: 60px 0;
     position: relative;
 }
 .no-top {
@@ -429,13 +429,13 @@ button.scrollTopStick.active:before,
     background: transparent;
     border-left: 0 solid transparent;
     border-right: 30px solid transparent;
-    border-top: 65px solid #499256;
+    border-top: 65px solid #f3f5f3;
 }
 .desktop-nav .nav-bar .extras .theme-btn.simple:after {
     display: none;
 }
 .theme-btn:hover {
-    background-color: transparent;
+    background-color: #fffdfde3;
     color: black;
 }
 .theme-btn:hover i {
@@ -2036,7 +2036,7 @@ span.counter {
 }
 .footer-style-one .footer-p-2,
 .footer-style-one .footer-p-3 {
-    background-color: #263A53;
+    background-color: #172434;
 }
 .footer-style-one .footer-p-2 .footer-col h3 {
     color: white;
