@@ -250,3 +250,17 @@ canvas {
 .loaction{
   color: white !important;
 }
+.footer-style-one .footer-p-2 .footer-col ul li a {
+      width: 60%;
+    margin-top: -6px;
+    margin-left: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.detail-page h3 {
+  font-size: 22px;
+  color: #fbf9f9;
+  font-weight: bold;
+  font-family: 'Jost';
+}
