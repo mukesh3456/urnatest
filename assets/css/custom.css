@@ -264,3 +264,6 @@ canvas {
   font-weight: bold;
   font-family: 'Jost';
 }
+.team-style-two .team-data h3 a{
+  color: white;
+}
