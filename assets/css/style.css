@@ -136,7 +136,7 @@ a:hover{
     padding-right: 0 !important;
 }
 .gap {
-    padding: 60px 0;
+    padding: 100px 0;
     position: relative;
 }
 .no-top {
@@ -5199,7 +5199,7 @@ ul.social-medias {
     width: 100%;
 }
 .project-detail-slider .p-d-slider img {
-    height: 460px;
+    height: 549px;
     object-fit: cover;
 }
 .project-detail-slider .p-d-slider .owl-dots {

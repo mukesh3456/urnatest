@@ -61,7 +61,7 @@ canvas {
   }
   .solution .project1 svg{
     z-index: 111;
-    margin-top: -37px;
+    margin-top: 37px;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -85,7 +85,7 @@ canvas {
     }
     .banner svg {
     z-index: 111;
-    margin-top: -70px;
+    margin-top: -66px;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -259,7 +259,7 @@ canvas {
 }
 
 .detail-page h3 {
-  font-size: 22px;
+  font-size: 50px;
   color: #fbf9f9;
   font-weight: bold;
   font-family: 'Jost';
