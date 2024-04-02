@@ -267,3 +267,12 @@ canvas {
 .team-style-two .team-data h3 a{
   color: white;
 }
+.theme-btn{
+  background-color: white;
+}
+.counter-style-one .counter-data .count {
+  -webkit-text-stroke-color:white
+}
+.counter-style-one .counter-data .count i{
+  -webkit-text-fill-color:white
+}
