@@ -279,3 +279,9 @@ canvas {
 .contact-form-2 .data h4{
   color: white;
 }
+.mobile-nav.desktop-menu h2 , .mobile-nav.desktop-menu h3 ,.mobile-nav.desktop-menu p ,.mobile-nav.desktop-menu .social-medias a{
+  color: white;
+}
+.d-flex-all img :hover{
+   width: 100px;
+}
