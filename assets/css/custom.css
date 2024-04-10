@@ -285,3 +285,9 @@ canvas {
 .d-flex-all img :hover{
    width: 100px;
 }
+
+.gap1{
+  padding: 10px 0 !important;
+  position: relative;
+
+}
