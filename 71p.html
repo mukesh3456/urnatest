@@ -342,6 +342,18 @@
           <h2>71P</h2>
           <p>2 & 3 BHK flats in Borivali</p>
         </div>
+       <!-- <div class="col-12 col-md-4">
+        <div class="banner-details">
+          <h2>71P</h2>
+          <p>2 & 3 BHK flats in Borivali</p>
+        </div>
+       </div>
+       <div class="col-12 col-md-8">
+        <div class="banner-details">
+          <h2>71P 2 & 3 BHK flats in Borivali</h2>
+          <p>2 & 3 BHK flats in Borivali</p>
+        </div>
+       </div> -->
       </div>
     </div>
     <div class="breadcrums">
@@ -582,26 +594,19 @@
         <br> -->
     </div>
     <div class="container">
-      <div class=" no-top project-detail-slider" id="gallery">
+      <div class="no-top project-detail-slider" id="gallery">
         <div class="container-fluid g-0">
           <div class="row p-d-slider owl-carousel owl-loaded owl-drag">
-
-            <!-- <div class="container">
-                        <a data-fancybox="gallery" href="./assets/images/floar-plan.png">
-                            <img class="img-fluid w-100" src="./assets/images/floar-plan.png" alt="service-detail-1">
-                        </a>
-                    </div> -->
-
-
+      
             <div class="owl-stage-outer">
-              <div class="owl-stage"
-                style="transform: translate3d(-2698px, 0px, 0px); transition: all 0.25s ease 0s; width: 5396px;">
-                <div class="owl-item active" style="width: 1200px;">
+              <div class="owl-stage" style="transform: translate3d(-2698px, 0px, 0px); transition: all 0.25s ease 0s; width: 5396px;">
+                <!-- Remove the "active" class from the first owl-item -->
+                <div class="owl-item" style="width: 1200px;">
                   <figure>
                     <img class="img-fluid w-100" src="./assets/images/floar-plan.png" alt="p-d-slider">
                   </figure>
                 </div>
-
+      
                 <div class="owl-item" style="width: 1200px;">
                   <figure>
                     <img src="./assets/images/71p-floor-plane-1.png" alt="p-d-slider">
@@ -612,22 +617,20 @@
                     <img src="./assets/images/71p-floor-plane-2.png" alt="p-d-slider">
                   </figure>
                 </div>
-
-                <!-- <div class="owl-item" style="width: 1200px;">
-                                <figure>
-                                    <img src="./assets/images/4-urna.jpg" alt="p-d-slider">
-                                </figure>
-                            </div> -->
-
+      
+                <!-- Add more owl-items as needed -->
+      
               </div>
             </div>
-            <div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span
-                  aria-label="Previous">‹</span></button><button type="button" role="presentation"
-                class="owl-next"><span aria-label="Next">›</span></button></div>
-
+            <div class="owl-nav disabled">
+              <button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button>
+              <button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button>
+            </div>
+      
           </div>
         </div>
       </div>
+      
     </div>
     <!-- <div class="container">
   <div class="row g-0">
@@ -1929,7 +1932,13 @@
   </div>
 
   <!-- Jquery -->
+  <script>
+    $(".p-d-slider").owlCarousel({
+  loop: true,
+  // other options...
+});
 
+  </script>
   <script src="assets/js/jquery.min.js"></script>
 
   <!-- Waypoint -->
