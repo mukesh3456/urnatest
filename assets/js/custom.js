@@ -458,6 +458,25 @@ jQuery(document).ready(function ($) {
 
     // Sticky Header
     var new_scroll_position = 0;
+var last_scroll_position;
+var header = document.getElementById("stickyHeader");
+
+window.addEventListener('scroll', function(e) {
+    last_scroll_position = window.scrollY;
+
+    // Scrolling down
+    if (new_scroll_position < last_scroll_position && last_scroll_position > 100) {
+        header.classList.remove("slideUp");
+        header.classList.add("slideDown", "sticky"); // Add 'sticky' class to make it sticky
+    } else if (last_scroll_position < 100) {
+        header.classList.remove("slideDown", "sticky"); // Remove 'sticky' class
+    } else if (new_scroll_position > last_scroll_position) {
+        header.classList.remove("slideUp", "sticky"); // Remove 'sticky' class
+    }
+
+    new_scroll_position = last_scroll_position;
+});
+          var new_scroll_position = 0;
 
         var last_scroll_position;
 
@@ -545,3 +564,26 @@ $(window).on('load', function () {
     $("body").addClass("page-loaded");
     
 });
+
+
+
+
+// var new_scroll_position = 0;
+// var last_scroll_position;
+// var header = document.getElementById("stickyHeader");
+
+// window.addEventListener('scroll', function(e) {
+//     last_scroll_position = window.scrollY;
+
+//     // Scrolling down
+//     if (new_scroll_position < last_scroll_position && last_scroll_position > 100) {
+//         header.classList.remove("slideUp");
+//         header.classList.add("slideDown", "sticky"); // Add 'sticky' class to make it sticky
+//     } else if (last_scroll_position < 100) {
+//         header.classList.remove("slideDown", "sticky"); // Remove 'sticky' class
+//     } else if (new_scroll_position > last_scroll_position) {
+//         header.classList.remove("slideUp", "sticky"); // Remove 'sticky' class
+//     }
+
+//     new_scroll_position = last_scroll_position;
+// });
