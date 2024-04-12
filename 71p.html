@@ -1890,7 +1890,10 @@
     </div>
   </footer>
   <!-- Footer Style One End -->
-
+  <audio id="audioPlayer" loop>
+    <source src="pianoNature.mpeg" type="audio/mpeg">
+    
+  </audio>
 
 
   <button id="scrollTop" class="scrollTopStick">
@@ -1991,7 +1994,11 @@
   <!-- Waypoint -->
 
   <script src="assets/js/jquery.waypoints.min.js"></script>
-
+  
+  <script>
+    const audio = document.getElementById('audioPlayer');
+    audio.play();
+  </script>
 
   <!-- Counter -->
 
